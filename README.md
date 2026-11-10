@@ -1,9 +1,7 @@
-# Dropship website replica
+# Humanxstack
 
-Static homepage with the original GSAP animation bundle and custom styles. The bundle uses the same public slider and globe libraries as the source website.
+Branded product-research landing page with the original GSAP motion, supplied Humanxstack logo, a filterable demo product explorer, locally saved shortlist, and interactive per-order profit calculator. Product prices and calculator assumptions are illustrative; no live product data or account service is connected.
 
 ## Vercel
 
-Framework: Other. Root: ./. No build command. Output: .
-
-Secondary pages and service links open Dropship.io.
+Framework: Other. Root directory: ./. No build command. Output: .

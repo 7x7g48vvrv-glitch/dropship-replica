@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Mini Projector",
+    "category": "Tech",
+    "price": 79.99,
+    "cost": 28,
+    "shipping": 6,
+    "ads": 12,
+    "image": "/assets/deed5f98b3a689b397.webp"
+  },
+  {
+    "id": 1,
+    "name": "Portable Bottle Warmer",
+    "category": "Everyday",
+    "price": 26.99,
+    "cost": 8,
+    "shipping": 3,
+    "ads": 5,
+    "image": "/assets/56b33e4ec0013eb197.webp"
+  },
+  {
+    "id": 2,
+    "name": "Galaxy Projector",
+    "category": "Home",
+    "price": 32.99,
+    "cost": 11,
+    "shipping": 4,
+    "ads": 6,
+    "image": "/assets/60aae1addaab38c61f.webp"
+  },
+  {
+    "id": 3,
+    "name": "Cat Lamp",
+    "category": "Home",
+    "price": 16.99,
+    "cost": 4,
+    "shipping": 2,
+    "ads": 3,
+    "image": "/assets/dbdcfa02b7f031e8ac.webp"
+  },
+  {
+    "id": 4,
+    "name": "Hair Straightener",
+    "category": "Beauty",
+    "price": 29.99,
+    "cost": 9,
+    "shipping": 3,
+    "ads": 6,
+    "image": "/assets/459c64e489b15e58c4.webp"
+  },
+  {
+    "id": 5,
+    "name": "Mini Sealing Machine",
+    "category": "Everyday",
+    "price": 12.99,
+    "cost": 3,
+    "shipping": 2,
+    "ads": 2,
+    "image": "/assets/7b37604e73b9751d83.webp"
+  }
+]
