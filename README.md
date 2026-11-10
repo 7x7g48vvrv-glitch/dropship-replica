@@ -1,12 +1,9 @@
 # Dropship website replica
 
-Static homepage replica, ready to import into Vercel.
+Static homepage with the original GSAP animation bundle and custom styles. The bundle uses the same public slider and globe libraries as the source website.
 
-## Vercel settings
+## Vercel
 
-- Framework preset: Other
-- Root directory: ./
-- Build command: leave empty
-- Output directory: .
+Framework: Other. Root: ./. No build command. Output: .
 
-The homepage assets are local. Secondary pages and service links open Dropship.io. Some effects are approximated.
+Secondary pages and service links open Dropship.io.
